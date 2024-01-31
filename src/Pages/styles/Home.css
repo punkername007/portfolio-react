@@ -1,0 +1,21 @@
+.Home {
+  color: white;
+}
+
+.Home .hero-container {
+  background: var(--gradient);
+  padding: 100px 100px;
+}
+
+.Home h1 {
+  font-size: 85px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.Home h2 {
+  color: var(--primary-color);
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
