@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "projectTitle": "Afterlife Fan Page",
+      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
+      "projectDescription": "description",
+      "projectSrc": "src",
+      "projectRepoSrc": "repo"
+    },
+    {
+      "projectTitle": "Afterlife Fan Page",
+      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
+      "projectDescription": "description",
+      "projectSrc": "src",
+      "projectRepoSrc": "repo"
+    },
+    {
+      "projectTitle": "Afterlife Fan Page",
+      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
+      "projectDescription": "description",
+      "projectSrc": "src",
+      "projectRepoSrc": "repo"
+    },
+    {
+      "projectTitle": "Afterlife Fan Page",
+      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
+      "projectDescription": "Afterlife responsive fan page built with HTML5 and CSS",
+      "projectSrc": "https://afterlife-records-sr.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/afterlife-project-2.0"
+    },
+    {
+      "projectTitle": "Weather App React",
+      "projectImg": "/Images/Captura de pantalla 2024-01-22 221143.png",
+      "projectDescription": "Weather App project built in React",
+      "projectSrc": "https://sr-weather-react.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/weather-app-react"
+    },
+    {
+      "projectTitle": "Online Dictionary",
+      "projectImg": "/Images/Captura de pantalla 2024-01-28 210051.png",
+      "projectDescription": "Dictionary App project built in React",
+      "projectSrc": "https://sr-dictionary-react.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/dictionary-project"
+    }
+  ]
+}
