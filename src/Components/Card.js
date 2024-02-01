@@ -4,7 +4,7 @@ import "./Components.css";
 
 export default function ProjectCard(props) {
   return (
-    <div className="Project Card col p-3">
+    <div className="ProjectCard col p-3">
       <Card className="p-3">
         <Card.Img
           variant="top"

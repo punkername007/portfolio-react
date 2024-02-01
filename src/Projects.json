@@ -1,29 +1,33 @@
 {
   "projects": [
     {
-      "projectTitle": "Afterlife Fan Page",
-      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
+      "projectTitle": "Weather App",
+      "projectImg": "/Images/Captura de pantalla 2024-01-03 143601.png",
+      "imageAlt": "Weather App preview",
       "projectDescription": "description",
-      "projectSrc": "src",
-      "projectRepoSrc": "repo"
+      "projectSrc": "https://weather-app-sr23.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/sheCodes-weatherApp"
+    },
+    {
+      "projectTitle": "World Clock",
+      "projectImg": "/Images/Captura de pantalla 2024-01-03 143645.png",
+      "imageAlt": "World Clock App preview",
+      "projectDescription": "description",
+      "projectSrc": "https://world-clock-sr.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/world-clock"
+    },
+    {
+      "projectTitle": "Road trip planner",
+      "projectImg": "/images/Captura de pantalla 2024-01-02 213651.png",
+      "imageAlt": "AI Road Trip App preview",
+      "projectDescription": "description",
+      "projectSrc": "https://ai-road-trip-planner.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/ai-road-trip-planner"
     },
     {
       "projectTitle": "Afterlife Fan Page",
       "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
-      "projectDescription": "description",
-      "projectSrc": "src",
-      "projectRepoSrc": "repo"
-    },
-    {
-      "projectTitle": "Afterlife Fan Page",
-      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
-      "projectDescription": "description",
-      "projectSrc": "src",
-      "projectRepoSrc": "repo"
-    },
-    {
-      "projectTitle": "Afterlife Fan Page",
-      "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
+      "imageAlt": "Afterlife Fan Page App preview",
       "projectDescription": "Afterlife responsive fan page built with HTML5 and CSS",
       "projectSrc": "https://afterlife-records-sr.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/afterlife-project-2.0"
@@ -31,6 +35,7 @@
     {
       "projectTitle": "Weather App React",
       "projectImg": "/Images/Captura de pantalla 2024-01-22 221143.png",
+      "imageAlt": "Afterlife Fan Page App preview",
       "projectDescription": "Weather App project built in React",
       "projectSrc": "https://sr-weather-react.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/weather-app-react"
@@ -38,6 +43,7 @@
     {
       "projectTitle": "Online Dictionary",
       "projectImg": "/Images/Captura de pantalla 2024-01-28 210051.png",
+      "imageAlt": "Afterlife Fan Page App preview",
       "projectDescription": "Dictionary App project built in React",
       "projectSrc": "https://sr-dictionary-react.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/dictionary-project"

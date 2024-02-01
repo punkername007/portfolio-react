@@ -2,11 +2,7 @@ import React from "react";
 import "./Components.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
-import {
-  faGithub,
-  faLinkedin,
-  faLinkedinIn,
-} from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 
 export default function ContactInfo() {
   return (

@@ -1,5 +1,5 @@
 import React from "react";
-import "./About.css";
+import "./styles/About.css";
 import avatar from "../Imagen de WhatsApp 2023-11-03 a las 21.11.40_3aeaa120.jpg";
 import ContactInfo from "../Components/ContactInfo";
 import Footer from "../Components/Footer";
@@ -10,7 +10,7 @@ export default function About() {
       <div className="container info-container">
         <div className="row align-items-center">
           <div className="col-sm-6">
-            <img src={avatar} alt="Image of Selene Roa" className="img-fluid" />
+            <img src={avatar} alt="Selene Roa" className="img-fluid" />
           </div>
           <div className="col-sm-6">
             <h1>SELENE ROA</h1>
