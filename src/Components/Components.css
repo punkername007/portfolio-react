@@ -14,17 +14,19 @@
 
 .card-img {
   padding: 20px;
-  filter: brightness(70%);
+  filter: brightness(80%);
   transition: all 200ms ease-in-out;
 }
+
 .card:hover .card-img {
   filter: brightness(100%);
 }
+
 .card-title {
   font-size: 18px;
   font-weight: 500;
-  margin-bottom: 10px;
   letter-spacing: 3px;
+  margin-bottom: 10px;
   opacity: 0.7;
   text-transform: uppercase;
 }
@@ -36,8 +38,8 @@
 }
 
 .project-button {
-  border: 1px solid rgba(208, 229, 251, 0.03);
   background: var(--secondary-color);
+  border: 1px solid rgba(208, 229, 251, 0.03);
   border-radius: 5px;
   color: var(--primary-color);
   font-size: 14px;

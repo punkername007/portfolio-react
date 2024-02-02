@@ -15,7 +15,7 @@ export default function ProjectCard(props) {
                 target="_blank"
                 rel="noreferrer"
                 title="Open in browser"
-                className="col-6 col-sm me-3 project-button "
+                className="col-sm me-3 project-button "
               >
                 ONLINE APP
               </a>
@@ -24,7 +24,7 @@ export default function ProjectCard(props) {
                 target="_blank"
                 rel="noreferrer"
                 title="Open Repository"
-                className="col-6 col-sm ms-3 project-button"
+                className="col-sm ms-3 project-button"
               >
                 GITHUB
               </a>
@@ -60,7 +60,7 @@ export default function ProjectCard(props) {
                 target="_blank"
                 rel="noreferrer"
                 title="Open in browser"
-                className="col-6 col-sm me-3 project-button text-center"
+                className="col-sm me-3 project-button text-center"
               >
                 ONLINE APP
               </a>
@@ -69,7 +69,7 @@ export default function ProjectCard(props) {
                 target="_blank"
                 rel="noreferrer"
                 title="Open Repository"
-                className="col-6 col-sm ms-3 project-button text-center"
+                className="col-sm ms-3 project-button text-center"
               >
                 GITHUB
               </a>

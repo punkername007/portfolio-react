@@ -4,7 +4,7 @@
       "projectTitle": "Weather App",
       "projectImg": "/Images/Captura de pantalla 2024-01-03 143601.png",
       "imageAlt": "Weather App preview",
-      "projectDescription": "description",
+      "projectDescription": "Weather App built with HTML5a and CSS, using weather API",
       "projectSrc": "https://weather-app-sr23.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/sheCodes-weatherApp"
     },
@@ -12,7 +12,7 @@
       "projectTitle": "World Clock",
       "projectImg": "/Images/Captura de pantalla 2024-01-03 143645.png",
       "imageAlt": "World Clock App preview",
-      "projectDescription": "description",
+      "projectDescription": "World Clock App built with HTML5, CSS and JavaScript, using Moments library",
       "projectSrc": "https://world-clock-sr.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/world-clock"
     },
@@ -20,7 +20,7 @@
       "projectTitle": "Road trip planner",
       "projectImg": "/images/Captura de pantalla 2024-01-02 213651.png",
       "imageAlt": "AI Road Trip App preview",
-      "projectDescription": "description",
+      "projectDescription": "Road trip Planner built with HTML5, CSS and Javascript, using AI API",
       "projectSrc": "https://ai-road-trip-planner.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/ai-road-trip-planner"
     },
