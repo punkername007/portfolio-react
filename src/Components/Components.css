@@ -14,9 +14,12 @@
 
 .card-img {
   padding: 20px;
-  filter: brightness(60%);
+  filter: brightness(70%);
+  transition: all 200ms ease-in-out;
 }
-
+.card:hover .card-img {
+  filter: brightness(100%);
+}
 .card-title {
   font-size: 18px;
   font-weight: 500;
@@ -67,31 +70,13 @@
   width: 95%;
 }
 
+.ProjectCard img {
+  max-width: 600px;
+  width: 100%;
+}
 .ProjectCard .button-row {
   margin: 0 auto;
   width: 60%;
-}
-
-.Inquiry {
-  background-color: var(--secondary-color);
-  box-shadow: 2px 6px 35px rgba(208, 229, 251, 0.07);
-  border-radius: 2px;
-  display: flex;
-  justify-content: space-between;
-  margin: 20px auto 0px;
-  padding: 30px;
-}
-
-.Inquiry h2 {
-  font-size: 25px;
-  font-weight: 400;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-}
-
-.Inquiry p {
-  font-family: var(--secondary-font);
-  font-weight: 100;
 }
 
 .ContactInfo {
@@ -100,6 +85,7 @@
   justify-content: center;
   margin: 50px auto 0;
   padding: 50px 0 10px;
+  text-align: center;
   width: 50%;
 }
 

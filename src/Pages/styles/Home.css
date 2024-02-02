@@ -21,6 +21,16 @@
   width: 90%;
 }
 
+.Contact {
+  margin: 40px auto;
+}
+.Contact h2 {
+  font-size: 30px;
+  font-weight: 200;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
 @media (max-width: 992px) {
   .hero-container h1 {
     font-size: 65px;

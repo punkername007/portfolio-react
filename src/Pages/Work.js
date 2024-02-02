@@ -13,14 +13,14 @@ export default function Work() {
       <header className="container-fluid hero-container">
         <h1>Projects</h1>
       </header>
-      <div className="secondary-heading">PROJECTS GALLERY</div>
+      <div className="secondary-heading mb-4">PROJECTS GALLERY</div>
       <main>
         {projects.projects.map(function (element, index) {
           return <ProjectCard data={element} key={index} index={index} />;
         })}
       </main>
       <footer>
-        <ContactInfo />
+        <ContactInfo details={false} />
       </footer>
       <Footer />
     </div>
