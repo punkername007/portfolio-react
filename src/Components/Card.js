@@ -27,7 +27,7 @@ export default function ProjectCard(props) {
             title={props.data.projectTitle}
             className=" project-button"
           >
-            learn more
+            LEARN MORE
           </a>
         </div>
       </Card>

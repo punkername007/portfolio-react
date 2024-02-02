@@ -20,7 +20,7 @@ export default function About() {
               through the European continent. I am an individual, passionate
               about learning and living new experiences, and these two passions
               have motivated me to begin a long journey to know and experience
-              life beyond my country of origin. Since my childhood I have felt
+              life beyond my country of origin. Since i was a child I have felt
               comfortable in front of a screen, whether browsing the web or
               playing video games (in addition to my interest in movies).
               Through the years, I awoke an interest in programming in order to

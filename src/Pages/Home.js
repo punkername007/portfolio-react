@@ -3,7 +3,6 @@ import "../Pages/styles/Home.css";
 import ProjectCard from "../Components/Card";
 import projects from "../Projects.json";
 import ContactInfo from "../Components/ContactInfo";
-import Inquiry from "../Components/Inquiry";
 import Footer from "../Components/Footer";
 
 export default function Home() {
@@ -27,7 +26,7 @@ export default function Home() {
             }
           })}
         </div>
-        <div className="d-flex justify-content-end mt-4">
+        <div className="d-flex justify-content-end mt-5">
           <a href="/work" title="See list" className="project-button">
             See full list of projects →
           </a>
