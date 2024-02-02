@@ -11,7 +11,7 @@ export default function Navigation() {
           &lt; <b>SR/</b>&gt;
         </Navbar.Brand>
         <Navbar.Toggle className="me-4" />
-        <Navbar.Collapse className="ms-4">
+        <Navbar.Collapse className="ps-5 collapse ">
           <Nav className="navbar-links ms-auto me-4">
             <NavLink to="/" className="me-4">
               Home
