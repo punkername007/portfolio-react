@@ -3,15 +3,15 @@ import "./Components.css";
 
 export default function Inquiry() {
   return (
-    <div className="Inquiry d-sm-flex justify-content-between align-items-center">
+    <div className="Inquiry">
       <div>
-        <h2 className="mb-3">WORK INQUIRY</h2>
-        <p className="mt-3 mb-0">LET'S WORK TOGETHER</p>
+        <h2 className="mb-3">do you like my work?</h2>
+        <p className="mt-3">let's work together</p>
       </div>
-      <div className="mt-4 mt-sm-0">
+      <div className="mt-4">
         <a
           href="/contact"
-          className="btn project-button"
+          className=" project-button"
           title="Contact Selene Roa"
         >
           CONTACT ME

@@ -12,22 +12,28 @@ export default function ContactInfo() {
           <a
             href="mailto:roapcselene.test@gmail.com"
             title="roapcselene.test@gmail.com"
+            target="_blank"
+            rel="noreferrer"
           >
             <FontAwesomeIcon icon={faEnvelope} className="icon" />
           </a>
         </div>
         <div className="col">
           <a
-            href="mailto:roapcselene.test@gmail.com"
-            title="roapcselene.test@gmail.com"
+            href="https://github.com/punkername007/?tab=repositories"
+            title="GitHub"
+            target="_blank"
+            rel="noreferrer"
           >
             <FontAwesomeIcon icon={faGithub} className="icon" />
           </a>
         </div>
         <div className="col">
           <a
-            href="mailto:roapcselene.test@gmail.com"
-            title="roapcselene.test@gmail.com"
+            href="https://www.linkedin.com/in/selene-roa-7092801b8/"
+            title="LinkedIn"
+            target="_blank"
+            rel="noreferrer"
           >
             <FontAwesomeIcon icon={faLinkedinIn} className="icon" />
           </a>

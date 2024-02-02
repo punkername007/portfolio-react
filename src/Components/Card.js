@@ -5,12 +5,12 @@ import "./Components.css";
 export default function ProjectCard(props) {
   return (
     <div className="ProjectCard col p-3">
-      <Card className="p-3">
+      <Card>
         <Card.Img
           variant="top"
           src={props.data.projectImg}
           alt="image"
-          className=" d-none d-lg-block p-2 rounded-4"
+          className=" d-none d-lg-block card-img"
         />
         <Card.Body>
           <Card.Title className="card-title">
@@ -19,16 +19,17 @@ export default function ProjectCard(props) {
           <Card.Text className="card-text">
             {props.data.projectDescription}
           </Card.Text>
-          <div className="mt-4">
-            <a
-              href="/work"
-              title={props.data.projectTitle}
-              className=" project-button"
-            >
-              LEARN MORE
-            </a>
-          </div>
         </Card.Body>
+
+        <div className="ms-3 mb-4 mt-4">
+          <a
+            href="/work"
+            title={props.data.projectTitle}
+            className=" project-button"
+          >
+            learn more
+          </a>
+        </div>
       </Card>
     </div>
   );

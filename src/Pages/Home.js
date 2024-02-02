@@ -27,7 +27,11 @@ export default function Home() {
             }
           })}
         </div>
-        <Inquiry />
+        <div className="d-flex justify-content-end mt-4">
+          <a href="/work" title="See list" className="project-button">
+            See full list of projects →
+          </a>
+        </div>
       </main>
       <footer>
         <ContactInfo />
