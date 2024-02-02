@@ -4,7 +4,7 @@
       "projectTitle": "Weather App",
       "projectImg": "/Images/Captura de pantalla 2024-01-03 143601.png",
       "imageAlt": "Weather App preview",
-      "projectDescription": "Weather App built with HTML5a and CSS, using weather API",
+      "projectDescription": "Weather App built in VS Code with HTML5a and CSS, using bootstrap and getting data from weather API",
       "projectSrc": "https://weather-app-sr23.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/sheCodes-weatherApp"
     },
@@ -12,7 +12,7 @@
       "projectTitle": "World Clock",
       "projectImg": "/Images/Captura de pantalla 2024-01-03 143645.png",
       "imageAlt": "World Clock App preview",
-      "projectDescription": "World Clock App built with HTML5, CSS and JavaScript, using Moments library",
+      "projectDescription": "World Clock App built in VS Code with HTML5, CSS and JavaScript, using bootstrap and getting data from Moments library",
       "projectSrc": "https://world-clock-sr.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/world-clock"
     },
@@ -20,7 +20,7 @@
       "projectTitle": "Road trip planner",
       "projectImg": "/images/Captura de pantalla 2024-01-02 213651.png",
       "imageAlt": "AI Road Trip App preview",
-      "projectDescription": "Road trip Planner built with HTML5, CSS and Javascript, using AI API",
+      "projectDescription": "Responsive Road trip Planner built in VS Code with HTML5, CSS and Javascript, using bootstrap and getting data from AI API",
       "projectSrc": "https://ai-road-trip-planner.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/ai-road-trip-planner"
     },
@@ -28,7 +28,7 @@
       "projectTitle": "Afterlife Fan Page",
       "projectImg": "/Images/Captura de pantalla 2024-01-22 220507.png",
       "imageAlt": "Afterlife Fan Page App preview",
-      "projectDescription": "Afterlife responsive fan page built with HTML5 and CSS",
+      "projectDescription": "Afterlife responsive fan page built in VS Code with HTML5 and CSS",
       "projectSrc": "https://afterlife-records-sr.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/afterlife-project-2.0"
     },
@@ -36,7 +36,7 @@
       "projectTitle": "Weather App React",
       "projectImg": "/Images/Captura de pantalla 2024-01-22 221143.png",
       "imageAlt": "Afterlife Fan Page App preview",
-      "projectDescription": "Weather App project built in React",
+      "projectDescription": "Responsive Weather App project built in VS Code with React.js",
       "projectSrc": "https://sr-weather-react.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/weather-app-react"
     },
@@ -44,7 +44,7 @@
       "projectTitle": "Online Dictionary",
       "projectImg": "/Images/Captura de pantalla 2024-01-28 210051.png",
       "imageAlt": "Afterlife Fan Page App preview",
-      "projectDescription": "Dictionary App project built in React",
+      "projectDescription": "Responsive Dictionary App project built in VS Code with React.js",
       "projectSrc": "https://sr-dictionary-react.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/dictionary-project"
     }
