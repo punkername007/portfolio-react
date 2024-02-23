@@ -1,6 +1,6 @@
 import React from "react";
 import "../Pages/styles/Home.css";
-import ProjectCard from "../Components/Card";
+import HomepageCard from "../Components/HomepageCard";
 import projects from "../Projects.json";
 import ContactInfo from "../Components/ContactInfo";
 import Footer from "../Components/Footer";
@@ -20,7 +20,7 @@ export default function Home() {
         <div className="row d-block d-lg-flex justify-content-around">
           {projects.projects.map(function (element, index) {
             if (index >= projects.projects.length - 3) {
-              return <ProjectCard data={element} key={index} />;
+              return <HomepageCard data={element} key={index} />;
             } else {
               return null;
             }

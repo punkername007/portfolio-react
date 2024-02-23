@@ -2,7 +2,7 @@ import React from "react";
 import { Card } from "react-bootstrap";
 import "./Components.css";
 
-export default function ProjectCard(props) {
+export default function HomepageCard(props) {
   return (
     <div className="ProjectCard col p-3">
       <Card>
