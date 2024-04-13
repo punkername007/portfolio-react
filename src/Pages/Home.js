@@ -15,7 +15,7 @@ export default function Home() {
         </div>
       </header>
 
-      <div class="secondary-heading">LATEST PROJECTS</div>
+      <div className="secondary-heading">LATEST PROJECTS</div>
       <main className="container-fluid main-container">
         <div className="row d-block d-lg-flex justify-content-around">
           {projects.projects.map(function (element, index) {

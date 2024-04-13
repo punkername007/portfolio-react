@@ -47,6 +47,14 @@
       "projectDescription": "Responsive Dictionary App project built in VS Code with React.js",
       "projectSrc": "https://sr-dictionary-react.netlify.app/",
       "projectRepoSrc": "https://github.com/punkername007/dictionary-project"
+    },
+    {
+      "projectTitle": "To do list",
+      "projectImg": "/Images/Captura de pantalla 2024-04-12 192442.png",
+      "imageAlt": "To do app preview",
+      "projectDescription": "Responsive to do list built in VS with HTML5, CSS3, Javascript",
+      "projectSrc": "https://sr-todoapp.netlify.app/",
+      "projectRepoSrc": "https://github.com/punkername007/to-do-app"
     }
   ]
 }

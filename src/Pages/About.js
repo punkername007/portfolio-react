@@ -16,22 +16,20 @@ export default function About() {
             <h1 className="mt-4 mt-ms-none">SELENE ROA</h1>
             <h2>FRONT-END DEVELOPER BASED IN EUROPE</h2>
             <p className="pt-2 pb-3">
-              Hi ! I am a traveler from Argentina who is currently traveling
-              around Europe. I am an individual, passionate about learning and
-              living new experiences, and these two passions have motivated me
-              to begin a long journey to know and experience life beyond my
-              country of origin. Through the years, I got interested in
-              programming in order to be able to create applications, and for
-              this reason I decided to learn to code. For a few years now,
+              Hi! I am Selene, a front-end developer originally from Argentina.
+              I am currently traveling around Europe since I began a long
+              journey to know and experience life beyond my country of origin.
+              During the hard times of COVID, I got interested in programming in
+              order to be able to create applications. For a few years now,
               studying programming and building applications has been part of my
               daily life (Just like good music and a cup of coffee). I enjoy
               building applications while learning to communicate with my travel
               companion (💻❤️), since in short, she builds everything I develope
-              in my head. Traveling doesn't stop me from learning and allows me
-              to continue training as a Developer. I currently aspire to become
-              a full stack developer and my main goal is to build great
-              applications while continuing this journey that has no return
-              date.
+              in my head. I currently aspire to become a full stack developer
+              and i'm glad that traveling doesn't stop me from learning. It
+              keeps me motivated to improve as a developer. If you are
+              interested in my work, feel free to contact me, i will be glad to
+              work together.
             </p>
             <a
               href="/contact"
